@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LinguaQuiz</string>
+    <string name="chat_title">LinguaChat AI</string>
+    <string name="chat_hint">Tapez votre message...</string>
+    <string name="chat_send">Envoyer</string>
+    <string name="chatbot_name">Assistant Virtuel</string>
+    <string name="chatbot_welcome">Bonjour ! Je suis votre assistant LinguaQuiz. Comment puis-je vous aider aujourd\'hui ?</string>
+</resources>
